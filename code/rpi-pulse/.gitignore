@@ -1,0 +1,4 @@
+.vscode
+
+# Secrets, shouldn't be published to the repo ;)
+secrets.py
